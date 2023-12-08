@@ -57,19 +57,19 @@
     },
     {
       "id": 5,
-      "name": "Resistor 10k Ohm",
-      "description": "Can resist the voltage. Super cool.",
-      "price": 180,
+      "name": "Milka cu caramel",
+      "description": "Milka-ciocolata cu caramel",
+      "price": 34,
       "author_id": 3,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/resistor.png"
+      "photo_url": "https://www.cora.ro/media/catalog/product/2/2/2237906_hd_1_2.jpg?optimize=high&fit=bounds&height=422&width=422"
     },
     {
       "id": 6,
-      "name": "7-Segment Display",
-      "description": "Epic.",
+      "name": "toffifee",
+      "description": "Toffifee este o combinatie perfecta si unica pentru fiecare gust",
       "price": 300,
       "author_id": 2,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/7-seg.jpg"
+      "photo_url": "https://c.cdnmp.net/576194708/p/m/6/bomboane-toffifee-125g~4296.jpg"
     }
   ]
 }
