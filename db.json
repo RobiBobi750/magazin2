@@ -49,11 +49,11 @@
     },
     {
       "id": 4,
-      "name": "RGB",
-      "description": "Can make color party.",
-      "price": 92,
+      "name": "clepsidra",
+      "description": "descriere interesanta",
+      "price": 28,
       "author_id": 1,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.png"
+      "photo_url": "https://magazinbucuria.ro/pub/media/catalog/product/cache/1/600x600/bomboane-bucuria-cu-cocos-clepsidra-250g-mb00280.jpg"
     },
     {
       "id": 5,
