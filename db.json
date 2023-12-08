@@ -2,9 +2,8 @@
   "users": [
     {
       "id": 1,
-      "name": "Do-Re-mi",
-      "description:: ceva gustos "
-      "price:": "100",
+      "name": "Andriy",
+      "sirname": "Moskalenko",
       "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/photo.png",
       "balance": 1500
     },
@@ -26,19 +25,19 @@
   "products": [
     {
       "id": 1,
-      "name": "LED display",
-      "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
-      "price": 92,
+      "name": "Chisinau de seara",
+      "description": "Ciocolata neagra cu prune.",
+      "price": 25,
       "author_id": 1,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/led.jpeg"
+      "photo_url": "https://i.simpalsmedia.com/marketplace/products/original/664d691f2857b49cd7ced9052473c3a6.jpg"
     },
     {
       "id": 2,
-      "name": "Arduino UNO",
-      "description": "Brand new and high quality.",
-      "price": 180,
+      "name": "Do-re-mi",
+      "description": "ciocolata super smechera",
+      "price": 23,
       "author_id": 3,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/arduino.jpeg"
+      "photo_url": "https://img3.zakaz.md/md.1666348696.ad72436478c_2022-10-21_Alena_S/md.1666348696.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
     },
     {
       "id": 3,
