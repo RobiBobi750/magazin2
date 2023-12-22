@@ -27,7 +27,7 @@
       "id": 1,
       "name": "Chisinau de seara",
       "description": "Ciocolata neagra cu prune.",
-      "price": 25,
+      "price": 5,
       "author_id": 1,
       "photo_url": "https://i.simpalsmedia.com/marketplace/products/original/664d691f2857b49cd7ced9052473c3a6.jpg"
     },
@@ -35,7 +35,7 @@
       "id": 2,
       "name": "Do-re-mi",
       "description": "ciocolata super smechera",
-      "price": 23,
+      "price": 4,
       "author_id": 3,
       "photo_url": "https://img3.zakaz.md/md.1666348696.ad72436478c_2022-10-21_Alena_S/md.1666348696.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
     },
@@ -43,7 +43,7 @@
       "id": 3,
       "name": "ferrero rocher",
       "description": "ferrero rocher ferrero rocher ferrero rocher",
-      "price": 50,
+      "price": 8,
       "author_id": 2,
       "photo_url": "https://img2.zakaz.md/src.1606311046.ad72436478c_2020-11-25_Tamara/src.1606311046.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
     },
@@ -51,7 +51,7 @@
       "id": 4,
       "name": "clepsidra",
       "description": "descriere atragatoare",
-      "price": 28,
+      "price": 7,
       "author_id": 1,
       "photo_url": "https://magazinbucuria.ro/pub/media/catalog/product/cache/1/600x600/bomboane-bucuria-cu-napolitana-tocata-brandusa-250g-mb00285.jpg"
     },
@@ -59,7 +59,7 @@
       "id": 5,
       "name": "Milka cu caramel",
       "description": "Milka-ciocolata cu caramel",
-      "price": 34,
+      "price": 4,
       "author_id": 3,
       "photo_url": "https://www.cora.ro/media/catalog/product/2/2/2237906_hd_1_2.jpg?optimize=high&fit=bounds&height=422&width=422"
     },
@@ -67,7 +67,7 @@
       "id": 6,
       "name": "toffifee",
       "description": "Toffifee este o combinatie perfecta si unica pentru fiecare gust",
-      "price": 30,
+      "price": 3,
       "author_id": 2,
       "photo_url": "https://c.cdnmp.net/576194708/p/m/6/bomboane-toffifee-125g~4296.jpg"
     }
