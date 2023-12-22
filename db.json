@@ -70,14 +70,15 @@
       "price": 30,
       "author_id": 2,
       "photo_url": "https://c.cdnmp.net/576194708/p/m/6/bomboane-toffifee-125g~4296.jpg"
-    }
-  ]
-},
-{
-      "id": 5,
+    },
+    {
+      "id": 7,
       "name": "Toffix",
       "description": "Bomboane Elvan Tofix Mix gumate",
       "price": 34,
       "author_id": 3,
       "photo_url": "https://img3.zakaz.md/src.1621688024.ad72436478c_2021-05-22_Lesya/src.1621688024.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
     },
+  ]
+}
+
